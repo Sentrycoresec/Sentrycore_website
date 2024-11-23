@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome
+    text: Vigilance and Serenity at the heart of your IT security
     button: Tell Me More
     buttonlink: "#services"
 
